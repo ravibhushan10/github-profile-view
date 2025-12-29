@@ -3,11 +3,11 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
 
 
 ## 📸 Screenshots
- <img src="screenshots/front.png" alt="Landing Page" width="50%">
-  <img src="screenshots/first.png" alt="Builder Interface" width="50%">
-  <img src="screenshots/second.png" alt="Form Section" width="50%">
-  <img src="screenshots/third.png" alt="Features" width="50%">
-  <img src="screenshots/fourth.png" alt="Templates" width="50%">
+ <img src="screenshots/front.png" alt="Landing Page" width="80%">
+  <img src="screenshots/first.png" alt="Builder Interface" width="80%">
+  <img src="screenshots/second.png" alt="Form Section" width="80%">
+  <img src="screenshots/third.png" alt="Features" width="80%">
+  <img src="screenshots/fourth.png" alt="Templates" width="80%">
 
 
 
