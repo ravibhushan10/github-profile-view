@@ -1,24 +1,24 @@
 # 🚀 GitHub Profile Explorer
-<div align="center">
 A beautiful, feature-rich web application to explore and analyze GitHub profiles with interactive visualizations and real-time data.
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-<div/>
+
    
 ## 📸 Screenshots
 
 ### Dark Mode
-![Dark Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/front.png)
-![Dark Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/first.png)
-![Dark Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/second.png)
+![Dark Mode Screenshot](screenshots/front.png)
+![Dark Mode Screenshot](screenshots/first.png)
+![Dark Mode Screenshot](screenshots/second.png)
 
 ### Light Mode
-![Light Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/third.png)
+![Light Mode Screenshot](screenshots/third.png)
 
 ### Mobile View
-![Mobile View](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/fourth.png)
+![Mobile View](screenshots/fourth.png)
 
 ## ✨ Features
 
