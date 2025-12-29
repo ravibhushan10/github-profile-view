@@ -6,22 +6,15 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> 80a4d18deb37b70aa4d234e9a6d522a1109087b1
 ## 📸 Screenshots
 
-### Dark Mode
 ![Dark Mode Screenshot](screenshots/front.png)
 ![Dark Mode Screenshot](screenshots/first.png)
 ![Dark Mode Screenshot](screenshots/second.png)
 
-### Light Mode
 ![Light Mode Screenshot](screenshots/third.png)
 
-### Mobile View
 ![Mobile View](screenshots/fourth.png)
 
 ## ✨ Features
@@ -113,12 +106,8 @@ github-profile-explorer/
 3. **Open in browser**
    ```bash
    # Simply open index.html in your browser
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> 80a4d18deb37b70aa4d234e9a6d522a1109087b1
-   ```
+
 
 ### Usage
 
