@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Profile Viewer</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+  <div class="theme-toggle-container">
+    <button id="themeToggleBtn" class="theme-toggle">
+      <svg id="themeIcon" xmlns="http://www.w3.org/2000/svg" class="icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+      </svg>
+    </button>
+  </div>
+
+  <div class="container">
+
+    <div class="header">
+      <h1>GitHub Profile Explorer</h1>
+      <p>Discover and analyze GitHub profiles</p>
+    </div>
+
+
+    <div class="search-section">
+      <div class="search-controls">
+        <input type="text" id="searchInput" placeholder="Enter GitHub Username or URL" class="search-input">
+        <button id="searchBtn" class="btn btn-primary">Search</button>
+        <button id="clearBtn" class="btn btn-danger">Clear</button>
+      </div>
+
+
+      <div id="searchHistory" class="search-history"></div>
+    </div>
+
+
+    <div id="errorMessage" class="error-message hidden"></div>
+
+    <div id="loadingSpinner" class="loading-container hidden">
+      <div class="spinner"></div>
+    </div>
+
+    <div id="userCard" class="user-card hidden">
+    </div>
+
+    <div id="statsSection" class="stats-section hidden">
+      <div class="stat-card">
+        <h3>Activity Overview</h3>
+        <canvas id="activityChart"></canvas>
+      </div>
+      <div class="stat-card">
+        <h3>Top Languages</h3>
+        <canvas id="languageChart"></canvas>
+      </div>
+    </div>
+
+    <div id="repoFilters" class="repo-filters hidden">
+      <button class="filter-btn active" data-filter="all">All Repos</button>
+      <button class="filter-btn" data-filter="stars">Most Starred</button>
+      <button class="filter-btn" data-filter="recent">Most Recent</button>
+      <button class="filter-btn" data-filter="forks">Most Forked</button>
+      <select id="languageFilter" class="language-filter">
+        <option value="all">All Languages</option>
+      </select>
+    </div>
+
+    <div id="repoContainer" class="repo-container">
+      <div class="empty-state">
+        <h3>Search anyone's GitHub profile here</h3>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/feather-icons"></script>
+  <script src="script.js"></script>
+</body>
+</html>
