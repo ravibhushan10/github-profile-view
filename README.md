@@ -10,7 +10,7 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
 ![Screenshot](screenshots/fourth.png)
 
 
-## [Live Demo] (https://github-profile-view-pi.vercel.app)
+## [Live Demo](https://github-profile-view-pi.vercel.app)
 
 
 ##  🌟Features
