@@ -1,10 +1,24 @@
 # 🚀 GitHub Profile Explorer
-
+<div align="center">
 A beautiful, feature-rich web application to explore and analyze GitHub profiles with interactive visualizations and real-time data.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<div/>
+   
+## 📸 Screenshots
+
+### Dark Mode
+![Dark Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/front.png)
+![Dark Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/first.png)
+![Dark Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/second.png)
+
+### Light Mode
+![Light Mode Screenshot](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/third.png)
+
+### Mobile View
+![Mobile View](d1jd6j7xdf8x95.cloudfront.net/github-profile-viewer/images/fourth.png)
 
 ## ✨ Features
 
@@ -84,12 +98,12 @@ github-profile-explorer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/github-profile-explorer.git
+   git clone https://github.com/ravibhushan10/github-profile-view
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd github-profile-explorer
+   cd github-profile-view
    ```
 
 3. **Open in browser**
@@ -177,20 +191,10 @@ Contributions are welcome! Here's how you can help:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/ravibhushan10)
+- GitHub: [ravibhushan10](https://github.com/ravibhushan10)
 - Email: ravibhushankumar87tp@gmail.com
 
 
-## 📸 Screenshots
-
-### Dark Mode
-![Dark Mode Screenshot](screenshot-dark.png)
-
-### Light Mode
-![Light Mode Screenshot](screenshot-light.png)
-
-### Mobile View
-![Mobile View](screenshot-mobile.png)
 
 ---
 
@@ -200,6 +204,6 @@ Contributions are welcome! Here's how you can help:
 
 Made with ❤️ by developers, for developers
 
-[Report Bug](https://github.com/yourusername/github-profile-explorer/issues) · [Request Feature](https://github.com/yourusername/github-profile-explorer/issues)
+[Report Bug](https://github.com/ravibhushan10/github-profile-view/issues) · [Request Feature](https://github.com/ravibhushan10/github-profile-view/issues)
 
 </div>
