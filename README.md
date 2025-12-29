@@ -10,7 +10,7 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
 ![Screenshot](screenshots/fourth.png)
 
 
-## [Live Demo](https://resume-builder-ruby-omega.vercel.app/)
+## [Live Demo] (https://github-profile-view-pi.vercel.app)
 
 
 ##  🌟Features
@@ -81,7 +81,7 @@ Each repository displays:
 
 3. **Open in browser**
    ```bash
-   Simply open index.html in your browser
+   open index.html in your browser
 
 
 ### Usage
@@ -151,7 +151,7 @@ Contributions are welcome! Here's how you can help:
 
 **Made with ❤️ by Ravi Bhushan**
 
-[Live Demo](https://resume-builder-ruby-omega.vercel.app/) · [Report Bug](https://github.com/ravibhushan10/github-profile-view/issues) · [Request Feature](https://github.com/ravibhushan10/github-profile-view/issues)
+[Live Demo](https://github-profile-view-pi.vercel.app) · [Report Bug](https://github.com/ravibhushan10/github-profile-view/issues) · [Request Feature](https://github.com/ravibhushan10/github-profile-view/issues)
 
 ---
 
