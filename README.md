@@ -2,24 +2,20 @@
 A beautiful, feature-rich web application to explore and analyze GitHub profiles with interactive visualizations and real-time data.
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-
 ## 📸 Screenshots
+![Screenshot](screenshots/front.png)
+![Screenshot](screenshots/first.png)
+![Screenshot](screenshots/second.png)
+![Screenshot](screenshots/third.png)
+![Screenshot](screenshots/fourth.png)
 
-![Dark Mode Screenshot](screenshots/front.png)
-![Dark Mode Screenshot](screenshots/first.png)
-![Dark Mode Screenshot](screenshots/second.png)
 
-![Light Mode Screenshot](screenshots/third.png)
+## [Live Demo](https://resume-builder-ruby-omega.vercel.app/)
 
-![Mobile View](screenshots/fourth.png)
 
-## ✨ Features
+##  🌟Features
 
-### 🎨 **Theme Support**
+###  🫰**Theme Support**
 - **Dark Mode** (Default) - Easy on the eyes with GitHub-inspired dark theme
 - **Light Mode** - Clean and bright interface for daytime use
 - Smooth theme transitions with persistent selection
@@ -61,35 +57,15 @@ Each repository displays:
 - Creation date
 - Direct link to repository
 
-### 🚦 **User Experience**
-- Loading spinner with smooth animations
-- Error handling with user-friendly messages
-- Responsive design (mobile, tablet, desktop)
-- Hover effects and transitions
-- Clean, organized layout
-- Icon support via Feather Icons
-
 ## 🛠️ Technologies Used
-
 - **HTML5** - Semantic structure
 - **CSS3** - Custom styling with animations
 - **JavaScript (ES6+)** - Core functionality
 - **GitHub REST API** - Data fetching
 - **LocalStorage API** - Search history persistence
 
-## 📁 Project Structure
-
-```
-github-profile-explorer/
-│
-├── index.html          # Main HTML structure
-├── style.css           # All styles and animations
-├── script.js           # JavaScript functionality
-└── README.md           # Documentation (this file)
-```
 
 ## 🚀 Getting Started
-
 
 ### Installation
 
@@ -105,8 +81,7 @@ github-profile-explorer/
 
 3. **Open in browser**
    ```bash
-   # Simply open index.html in your browser
-
+   Simply open index.html in your browser
 
 
 ### Usage
@@ -133,39 +108,17 @@ github-profile-explorer/
    - Click "Clear" button to reset the view
 
 
-
-
-
 ## 📊 API Information
 
 This project uses the **GitHub REST API v3**:
-
 - **User Endpoint**: `https://api.github.com/users/{username}`
 - **Repos Endpoint**: `https://api.github.com/users/{username}/repos`
 - **Rate Limit**: 60 requests/hour (unauthenticated)
 - **Documentation**: [GitHub API Docs](https://docs.github.com/en/rest)
 
-
-
-## 🌟 Features Breakdown
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| User Search | Search by username or URL | ✅ |
-| Profile Display | Complete user information | ✅ |
-| Repository List | All public repositories | ✅ |
-| Charts | Activity & language visualization | ✅ |
-| Filters | Multiple sorting options | ✅ |
-| Theme Toggle | Dark/Light mode | ✅ |
-| Search History | Recent searches | ✅ |
-| Responsive | Mobile-friendly | ✅ |
-| Error Handling | User-friendly messages | ✅ |
-| Loading States | Visual feedback | ✅ |
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
-
 1. **Fork the repository**
 2. **Create a feature branch**
    ```bash
@@ -181,26 +134,24 @@ Contributions are welcome! Here's how you can help:
    ```
 
 
-
-
-
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [ravibhushan10](https://github.com/ravibhushan10)
+**Ravi Bhushan**
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
+- Portfolio: [Your Portfolio](https://ravibhushan-portfolio.vercel.app)
+- GitHub: [@ravibhushan10](https://github.com/ravibhushan10)
 - Email: ravibhushankumar87tp@gmail.com
-
-
 
 ---
 
 <div align="center">
 
-**⭐ Star this repository if you find it helpful!**
+### ⭐ Star this repository if it helped you!
 
-Made with ❤️ by developers, for developers
+**Made with ❤️ by Ravi Bhushan**
 
-[Report Bug](https://github.com/ravibhushan10/github-profile-view/issues) · [Request Feature](https://github.com/ravibhushan10/github-profile-view/issues)
+[Live Demo](https://resume-builder-ruby-omega.vercel.app/) · [Report Bug](https://github.com/ravibhushan10/Resume-builder/issues) · [Request Feature](https://github.com/ravibhushan10/Resume-builder/issues)
 
-</div>
+---
+
