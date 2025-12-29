@@ -3,11 +3,12 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
 
 
 ## 📸 Screenshots
-![Screenshot](screenshots/front.png)
-![Screenshot](screenshots/first.png)
-![Screenshot](screenshots/second.png)
-![Screenshot](screenshots/third.png)
-![Screenshot](screenshots/fourth.png)
+ <img src="screenshots/front.png" alt="Landing Page" width="50%">
+  <img src="screenshots/first.png" alt="Builder Interface" width="50%">
+  <img src="screenshots/second.png" alt="Form Section" width="50%">
+  <img src="screenshots/third.png" alt="Features" width="50%">
+  <img src="screenshots/fourth.png" alt="Templates" width="50%">
+
 
 
 ## [Live Demo](https://github-profile-view-pi.vercel.app)
