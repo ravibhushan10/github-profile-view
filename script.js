@@ -3,19 +3,19 @@ let currentUser = null;
 let activityChart = null;
 let languageChart = null;
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
   updateHistoryUI();
 
   document.getElementById('searchBtn').addEventListener('click', fetchData);
   document.getElementById('clearBtn').addEventListener('click', clearAll);
   document.getElementById('themeToggleBtn').addEventListener('click', toggleTheme);
-  document.getElementById('searchInput').addEventListener('keydown', function(e) {
+  document.getElementById('searchInput').addEventListener('keydown', function (e) {
     if (e.key === 'Enter') fetchData();
   });
   document.getElementById('languageFilter').addEventListener('change', filterByLanguage);
 
   document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
+    btn.addEventListener('click', function () {
       filterRepos(this.dataset.filter);
     });
   });
@@ -58,7 +58,7 @@ function updateHistoryUI() {
   container.innerHTML = html;
 
   container.querySelectorAll('.history-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
+    btn.addEventListener('click', function () {
       document.getElementById('searchInput').value = this.dataset.username;
       fetchData();
     });
@@ -207,7 +207,7 @@ function filterRepos(type) {
 
   let filtered = [...allRepos];
 
-  switch(type) {
+  switch (type) {
     case 'stars':
       filtered.sort((a, b) => b.stargazers_count - a.stargazers_count);
       break;
